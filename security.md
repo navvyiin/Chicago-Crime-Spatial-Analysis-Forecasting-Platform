@@ -21,7 +21,7 @@ If you discover a security issue or vulnerability, **please do not open a public
 
 Instead, contact the maintainers directly at:
 
-📧 **navalg@gmail.com**
+📧 **usnavalg@gmail.com**
 
 When reporting a vulnerability, please include:
 
@@ -81,5 +81,6 @@ Users and contributors must:
 * Avoid attempts to deanonymise individuals or sensitive locations.
 * Use the model outputs for research, civic analytics, or policy evaluation—not improper surveillance.
 * Follow all local and national laws regarding spatial data use.
+
 
 Misuse of the project is strictly discouraged.
